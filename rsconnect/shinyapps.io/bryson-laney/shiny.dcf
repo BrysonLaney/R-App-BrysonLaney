@@ -1,0 +1,12 @@
+name: shiny
+title: shiny
+username: bryson-laney
+account: bryson-laney
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15653080
+bundleId: 10989560
+url: https://bryson-laney.shinyapps.io/shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
